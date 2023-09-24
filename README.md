@@ -1,4 +1,2 @@
 # CircadianSunstrip
-The 8052 Assembly code is completed. You will need to download an 8052 compiler from *find website*.
-
-The Arduino port is in progress.
+This is a side project I did while in college. It will set an RGBW LED strip to change colors to match the sun outside.
